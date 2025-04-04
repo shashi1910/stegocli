@@ -14,14 +14,14 @@ def encode(image, output, message):
     """Encode a MESSAGE into an IMAGE"""
     success = encode_image(image, output, message)
     if success:
-        click.echo(f"✅ Message encoded into {output}")
+        click.echo(f"Message encoded into {output}")
 
 @cli.command()
 @click.argument('image')
 def decode(image):
     """Decode and reveal hidden message from an IMAGE"""
     message = decode_image(image)
-    click.echo(f"🔍 Hidden message: {message}")
+    click.echo(f"Hidden message: {message}")
 
 if __name__ == '__main__':
     cli()
