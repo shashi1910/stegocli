@@ -19,7 +19,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/stegocli.git
+git clone https://github.com/shashi1910/stegocli
 cd stegocli
 ```
 
