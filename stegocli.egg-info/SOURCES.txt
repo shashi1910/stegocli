@@ -1,7 +1,0 @@
-setup.py
-stegocli.egg-info/PKG-INFO
-stegocli.egg-info/SOURCES.txt
-stegocli.egg-info/dependency_links.txt
-stegocli.egg-info/entry_points.txt
-stegocli.egg-info/requires.txt
-stegocli.egg-info/top_level.txt

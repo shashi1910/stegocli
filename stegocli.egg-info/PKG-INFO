@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: stegocli
-Version: 1.0.0
-Summary: A CLI tool for image steganography
-Author: Shashi P
-Requires-Python: >=3.6
-Requires-Dist: click
-Requires-Dist: pillow
